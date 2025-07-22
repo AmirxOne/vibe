@@ -1,8 +1,10 @@
 import React from 'react'
 
-function Page() {
+const Page = () => {
   return (
-    <div>Amir Ali</div>
+    <div>
+      Hello word
+    </div>
   )
 }
 
